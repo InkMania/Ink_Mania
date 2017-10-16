@@ -1,0 +1,78 @@
+h1{
+	color:blue;
+	font-size:40px ;
+	text-decoration: underline ;
+	text-align:center;
+
+
+}
+
+a
+{
+	color:red;
+	font-family: Arial;
+}
+
+body{
+	background-image: url(https://images.alphacoders.com/822/822412.jpg);
+	margin: 0;
+}
+
+h2{
+	color:green;
+	font-size:30px;
+	text-align:left;
+
+}
+.Titre{
+	
+	font-family: Arial;
+	text-decoration:underline;
+
+}
+.Paragraphe{
+		
+		font-family: Arial;
+		color:orange;
+		font-size: 20px;
+		text-align:left;
+}
+div{
+	border:10px green;
+    /*Couleur de fond (bleu-vert)*/
+    background-color: white;
+    /*Largeur de l'élément en soi*/
+    width: 300px;
+    /*Marge intérieure*/
+    padding: 100px;
+    /*Bordure (vert)*/
+    border: 20px solid #0C0;
+    /*Marge extérieure*/
+    margin: 50px;
+}
+.truc-a-centrer {
+  position: absolute;
+  top: 45%; left: 45%; 
+  transform: translate(-50%, -50%);
+}
+img{
+	width:150px;
+	position: absolute;
+  top: 91%; left:5%; 
+  transform: translate(-50%, -50%);
+}
+.Discord{
+	font-family: Arial;
+		color:orange;
+		font-size: 20px;
+			position: absolute;
+ 		 top: 91%; left:15%; 
+  transform: translate(-50%, -50%);
+ }
+.Youtube{
+	font-family: Arial;
+		color:red;
+			font-size: 20px;
+			position: absolute;
+		top: 81%; left:15%;
+	}
